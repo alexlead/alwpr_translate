@@ -24,9 +24,11 @@ For frontend part the plugin has widget with language selector
 ![alt text](manual/step_1.png "Add Languages")
 2. Select translation service you want to use
 ![alt text](manual/step_2.png "Select translation service")
-3. Edit translation
-![alt text](manual/edit_translation_1.png "Edit translation")
+3. Add language widget to frontend
+![alt text](manual/step_3.png "Select translation service")
 4. Edit translation
-![alt text](manual/edit_translation_2.png "Edit translation")
+![alt text](manual/edit_translation_1.png "Edit translation")
 5. Edit translation
+![alt text](manual/edit_translation_2.png "Edit translation")
+6. Edit translation
 ![alt text](manual/edit_translation_3.png "Edit translation")

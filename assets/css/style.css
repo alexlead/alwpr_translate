@@ -1,0 +1,45 @@
+/**
+ * Styles: editor for adding|updating posts  
+ * 
+ * @author: Alex Lead
+ * @package: WPR TRANSLATE
+ *   
+ */
+.wpr-lang-list-flags {
+  display: inline-block;
+  list-style: none;
+  padding: 0;
+  margin: 0 20px;
+}
+.wpr-lang-list-flags li {
+  display: inline-block;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.wpr-lang-list-flags li a {
+  display: block;
+  padding: 10px 5px;
+}
+.wpr-lang-list-flags li a.selected {
+  border: 1px solid #fff;
+}
+
+select.wpr-lang-list-flags {
+  display: inline-block;
+  list-style: none;
+  padding: 0;
+  margin: 0 20px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #383838;
+  text-transform: capitalize;
+  height: 32px;
+  border: none;
+  background-color: #fff;
+  border-radius: 4px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style.css.map */

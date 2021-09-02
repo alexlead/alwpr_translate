@@ -1,0 +1,29 @@
+/**
+ * Styles: editor for adding|updating posts  
+ * 
+ * @author: Alex Lead
+ * @package: WP USER ROLES CONFIGURATOR
+ *   
+ */
+.table {
+  display: table;
+}
+.table .row {
+  display: table-row;
+  border: 1px solid #000;
+}
+.table .row:nth-child(2n+1) {
+  background: #ccc;
+}
+.table .row:hover {
+  background: #999;
+}
+.table .row .cell {
+  display: table-cell;
+  min-width: 150px;
+  border: 1px solid #000;
+  padding: 5px 10px;
+}
+.table .row .cell:nth-child(n+2) {
+  text-align: center;
+}

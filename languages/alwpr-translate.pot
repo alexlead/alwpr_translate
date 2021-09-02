@@ -1,0 +1,142 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP TRANSLATE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-02 15:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: alwpr-translate"
+
+#: admin/functions.php:150
+msgid "Add language"
+msgstr ""
+
+#. Author of the plugin
+msgid "Alexander Lead"
+msgstr ""
+
+#: admin/functions.php:149
+msgid "Available languages list"
+msgstr ""
+
+#: admin/templates/list.php:53
+msgid "Delete"
+msgstr ""
+
+#: core/class-alwprt-translate-import.php:236
+msgid "File loaded successful!"
+msgstr ""
+
+#: admin/functions.php:469
+msgid "Generate translations"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codepen.io/alexlead/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/alexlead/"
+msgstr ""
+
+#: admin/templates/languages.php:21
+msgid "Language settings"
+msgstr ""
+
+#: admin/core/class-alwprt-admin-post-edit.php:71
+msgid "Languages"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin is for translation of WP articles"
+msgstr ""
+
+#: core/class-alwprt-translate-import.php:155
+#: core/class-alwprt-translate-import.php:216
+msgid "Problem with loading file!"
+msgstr ""
+
+#: admin/templates/term_form.php:52 admin/templates/widget_form.php:53
+msgid "Save"
+msgstr ""
+
+#: admin/templates/form.php:33
+msgid "Select language"
+msgstr ""
+
+#: admin/core/class-alwprt-translate-system.php:31
+msgid "Select translate system"
+msgstr ""
+
+#: admin/core/class-alwprt-terms.php:37
+msgid "Term edit translation"
+msgstr ""
+
+#: admin/core/class-alwprt-terms.php:30
+msgid "Terms list for translation"
+msgstr ""
+
+#: admin/templates/terms.php:21
+msgid "Terms Translation"
+msgstr ""
+
+#: admin/core/class-alwprt-settings.php:33
+msgid "Translate Categories"
+msgstr ""
+
+#: admin/core/class-alwprt-settings.php:48
+msgid "TRANSLATE Settings"
+msgstr ""
+
+#: admin/core/class-alwprt-settings.php:44
+msgid "TRANSLATE System"
+msgstr ""
+
+#: admin/core/class-alwprt-settings.php:37
+msgid "Translate Widget Headers"
+msgstr ""
+
+#: admin/templates/translate_system.php:21
+msgid "Translation systems"
+msgstr ""
+
+#: core/class-alwprt-translate-import.php:188
+msgid "Uploaded wrong file!"
+msgstr ""
+
+#: admin/core/class-alwprt-user-registration.php:32
+msgid "User Registration edit translation"
+msgstr ""
+
+#: admin/core/class-alwprt-user-registration.php:25
+msgid "User Registration for translation"
+msgstr ""
+
+#: admin/core/class-alwprt-widget-headers.php:38
+msgid "Widget header edit translation"
+msgstr ""
+
+#: admin/core/class-alwprt-widget-headers.php:31
+msgid "Widget headers for translation"
+msgstr ""
+
+#: admin/templates/widgets.php:21
+msgid "Widget Titles Translation"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP TRANSLATE"
+msgstr ""
+
+#: admin/core/class-alwprt-settings.php:29
+msgid "WPR TRANSLATE"
+msgstr ""
